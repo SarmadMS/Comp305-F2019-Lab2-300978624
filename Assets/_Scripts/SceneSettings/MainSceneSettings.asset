@@ -10,13 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d085e109a4ae9f54c8443fc1fd97321a, type: 3}
-  m_Name: MainSeceneSettings
+  m_Name: MainSceneSettings
   m_EditorClassIdentifier: 
+  scene: 1
+  activeSoundClip: 0
+  scoreLabelEnabled: 1
+  livesLabelEnabled: 1
   highScoreLabelEnabled: 0
-  scoreLabelEnabled: 0
-  livesLabelEnabled: 0
   startLabelActive: 0
   endLabelActive: 0
   startButtonActive: 0
   restartButtonActive: 0
-  activeSoundClip: 0
